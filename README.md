@@ -1,0 +1,2 @@
+# Synonym_word_automate
+weblio類語辞典から自動で類語を出力
